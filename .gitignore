@@ -6,10 +6,6 @@ coverage/
 awsconfig
 /.awcache
 /dist
-/public/build
-/public/views/index.html
-/public/views/error.html
-/emails/dist
 /reports
 /e2e/tmp
 /scripts/grafana-server/tmp
